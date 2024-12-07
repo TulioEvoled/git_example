@@ -72,7 +72,7 @@
         android:text="Iniciar Sesión"
         android:textColor="@color/black" />
 
-    <!-- Texto para registro -->
+    <!-- Texto para registro-->
     <TextView
         android:id="@+id/tvRegister"
         android:layout_width="wrap_content"
